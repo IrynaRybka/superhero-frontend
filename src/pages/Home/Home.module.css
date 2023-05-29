@@ -1,0 +1,16 @@
+.home {
+margin-top: 60px;
+margin-bottom: 60px;
+text-align: center;
+}
+
+.home_list{
+    display: flex;
+    max-width: 1400px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0;
+    gap: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
