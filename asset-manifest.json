@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/superhero-frontend/static/css/main.7acaea2f.css",
-    "main.js": "/superhero-frontend/static/js/main.07d3183d.js",
+    "main.css": "/superhero-frontend/static/css/main.eb3b6e1a.css",
+    "main.js": "/superhero-frontend/static/js/main.cf348abb.js",
+    "static/css/743.0fe2bb54.chunk.css": "/superhero-frontend/static/css/743.0fe2bb54.chunk.css",
+    "static/js/743.3bb562df.chunk.js": "/superhero-frontend/static/js/743.3bb562df.chunk.js",
+    "static/css/838.14cbff2a.chunk.css": "/superhero-frontend/static/css/838.14cbff2a.chunk.css",
+    "static/js/838.a4ca096c.chunk.js": "/superhero-frontend/static/js/838.a4ca096c.chunk.js",
+    "static/media/noPosterHero.jpg": "/superhero-frontend/static/media/noPosterHero.754eb002b25a12c65714.jpg",
     "index.html": "/superhero-frontend/index.html",
-    "main.7acaea2f.css.map": "/superhero-frontend/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/superhero-frontend/static/js/main.07d3183d.js.map"
+    "main.eb3b6e1a.css.map": "/superhero-frontend/static/css/main.eb3b6e1a.css.map",
+    "main.cf348abb.js.map": "/superhero-frontend/static/js/main.cf348abb.js.map",
+    "743.0fe2bb54.chunk.css.map": "/superhero-frontend/static/css/743.0fe2bb54.chunk.css.map",
+    "743.3bb562df.chunk.js.map": "/superhero-frontend/static/js/743.3bb562df.chunk.js.map",
+    "838.14cbff2a.chunk.css.map": "/superhero-frontend/static/css/838.14cbff2a.chunk.css.map",
+    "838.a4ca096c.chunk.js.map": "/superhero-frontend/static/js/838.a4ca096c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.eb3b6e1a.css",
+    "static/js/main.cf348abb.js"
   ]
 }
