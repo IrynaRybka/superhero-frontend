@@ -8,9 +8,9 @@ text-align: center;
     display: flex;
     max-width: 1400px;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
     padding: 0;
-    gap: 10px;
+    gap: 15px;
     margin-right: 20px;
     margin-left: 20px;
 }

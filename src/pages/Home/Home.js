@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
-import { NavLink, useLocation } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 import css from './Home.module.css';
+import {Card} from './Home.styled';
 import  { getHeroes } from '../../api/fetchApiHero';
 
 const initial = 5;
@@ -41,7 +42,7 @@ export const Home = () => {
       const path = thumbnail.path;
       const extension = thumbnail.extension;
       return (
-        <NavLink
+        <Card
           style={{ maxWidth: '280px', display: 'block' }}
           key={`${id}_${index}`}
           to={`/hero/${id}`}
@@ -54,7 +55,7 @@ export const Home = () => {
             alt={name}
           />
           <h2>{name}</h2>
-        </NavLink>
+        </Card>
       );
     })}
   </ul>
